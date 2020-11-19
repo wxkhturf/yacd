@@ -36,7 +36,7 @@ cd ~/.config/clash
 ls
 ```
 你会发现一个config.yaml的文件，将文件中的内容替换为你的.yaml文件的内容并保存。
-之后配置网络见下图
+之后配置网络见下图（如若不想用clash时，请Disable Network Proxy，否则不想科学上网时，网页打不开）
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020111921312714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d4a2h0dXJmdW4=,size_16,color_FFFFFF,t_70#pic_right#pic_center)
 最后重启你的电脑，重新运行clash
 
@@ -47,7 +47,7 @@ ls
 然后打开网址：[http://clash.razord.top/#/proxies](http://clash.razord.top/#/proxies)进行相关配置即可
 配置好后，可以关闭该页，此时你已可以科学上网。
 
-注：不使用clash时，需要在关掉proxy，
+注：不使用clash时，需要关掉Nproxy，
 后记：这个fork过来的yacd是相应的图形化界面，有待研究，yacd的MD文件见下：
 
 <h1 align="center">
