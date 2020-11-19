@@ -47,6 +47,7 @@ ls
 然后打开网址：[http://clash.razord.top/#/proxies](http://clash.razord.top/#/proxies)进行相关配置即可
 配置好后，可以关闭该页，此时你已可以科学上网。
 
+注：不使用clash时，需要在关掉proxy，
 后记：这个fork过来的yacd是相应的图形化界面，有待研究，yacd的MD文件见下：
 
 <h1 align="center">
