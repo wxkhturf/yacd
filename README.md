@@ -28,6 +28,7 @@ sudo chmod a+x clash
 首次执行，会提示什么诸如
 INFO[0000] Can't find MMDB, start download 
 之类的东西，大概出来两三行，就不接着出现了，这时，停止执行clash :Ctrl + C
+
 ***2.配置：***
 
 ```bash
