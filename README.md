@@ -1,5 +1,6 @@
 ## 1.下载
-github上下载：[https://github.com/Dreamacro/clash/releases/](https://github.com/Dreamacro/clash/releases/)
+github上下载：[https://github.com/Dreamacro/clash/releases/](https://github.com/Dreamacro/clash/releases/)  
+
 windows则从这里下载：https://github.com/Fndroid/clash_for_windows_pkg/releases
 找一个linux 64位的比如：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020111921101068.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d4a2h0dXJmdW4=,size_16,color_FFFFFF,t_70#pic_center)下载并解压，将解压后的文件重命名为clash。
